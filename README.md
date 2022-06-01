@@ -15,7 +15,7 @@ The initial landing page for the website can be seen below as Figure 1.
 
 <p align="center">
   <img width="900" alt="Initial_Site" src="https://github.com/skgolden13/UFOs/blob/main/images/Initial_Site.PNG"><br>
-  Figure 1: Initial Landing Page
+  <b>Figure 1:</b> Initial Landing Page
 </p>
 
 To filter the data, the date should be entered in the format: dd/mm/yyyy. The city, state, country, and shape should be entered in lower case. For example:
@@ -29,7 +29,7 @@ A sample filtered search can be found below in Figure 2.
 
 <p align="center">
   <img width="900" alt="Filtered_Site" src="https://github.com/skgolden13/UFOs/blob/main/images/Filtered_Site.PNG"><br>
-  Figure 2: Filtered Table for triangular UFOs in Grant's Pass, Oregon, USA on January 1<sup>st</sup>, 2010.
+  <b>Figure 2:</b> Filtered Table for triangular UFOs in Grant's Pass, Oregon, USA on January 1<sup>st</sup>, 2010.
 </p>
 
 ## Drawbacks and Recommendations
