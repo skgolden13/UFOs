@@ -4,17 +4,17 @@
 
 This project displays data on UFO sightings in HTML. The data is stored in a JavaScript array and the table was created using JavaScript version ES6+. CSS and Bootstrap were used to alter the aesthetics of the site.
 
-The JavaScript data array can be found [here.]().
-The JavaScript app used to create the table can be found [here.]()
-The CSS file can be found [here.]()
-The HTML file to open the site can be found [here.]()
+The JavaScript data array can be found [here.](https://github.com/skgolden13/UFOs/blob/main/js/data.js).<br>
+The JavaScript app used to create the table can be found [here.](https://github.com/skgolden13/UFOs/blob/main/js/app.js)<br>
+The CSS file can be found [here.](https://github.com/skgolden13/UFOs/blob/main/static/css/style.css)<br>
+The HTML file to open the site can be found [here.](https://github.com/skgolden13/UFOs/blob/main/index.html)<br>
 
 ## How to Perform a Search
 
 The initial landing page for the website can be seen below as Figure 1.
 
 <p align="center">
-  <img width="900" alt="Initial_Site" src="">
+  <img width="900" alt="Initial_Site" src="https://github.com/skgolden13/UFOs/blob/main/images/Initial_Site.PNG"><br>
   Figure 1: Initial Landing Page
 </p>
 
@@ -28,7 +28,7 @@ After typing in a filter, hit enter or click outside of the input box to apply t
 A sample filtered search can be found below in Figure 2.
 
 <p align="center">
-  <img width="900" alt="Filtered_Site" src="">
+  <img width="900" alt="Filtered_Site" src="https://github.com/skgolden13/UFOs/blob/main/images/Filtered_Site.PNG"><br>
   Figure 2: Filtered Table for triangular UFOs in Grant's Pass, Oregon, USA on January 1<sup>st</sup>, 2010.
 </p>
 
